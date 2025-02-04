@@ -1,4 +1,4 @@
-# [The Piranhas of Halfyord](https://willgraham01.github.io/PiranhasHalfyord/)
+# [FIXME](https://willgraham01.github.io/FIXME/)
 
 The affluent merchant town of Halfyord has recently fallen on hard times.
 A high-ranking wizard who resides in the town has gone missing without a trace.
@@ -16,7 +16,7 @@ The adventure tries to balance around a party of 4 level 3 characters, though th
 
 The adventure and associated information is hosted on GitHub pages, you can follow the link pinned to the side of the repository or use the one below:
 
-- [The Piranhas of Halfyord](https://willgraham01.github.io/PiranhasHalfyord/)
+- [FIXME](FIXME)
 
 ## Feedback and Contributing
 
