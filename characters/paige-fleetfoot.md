@@ -11,6 +11,11 @@ title: Paige Fleetfoot
 
 ## Backstory
 
+Paige's backstory beyond the recent events in Trawidok is entirely customisable.
+They are not a major character in the events of the story, primarily serving the role of the "quest giver".
+
+FIXME either include recent events, or redirect to the right part of the story.
+
 ## Appearance & Personality
 
 Paige wears travelling clothes; practical road leathers with an overcoat, hiking boots that border on military-grade, and a beret-like cap with a feather through it.
@@ -23,47 +28,21 @@ Their build is lean, and their cheeks are and nose are tinted red due to the nea
 Paige's long hair is often tied up to keep it out of their eyes when travelling.
 
 Like most gnomes, Paige is very approachable and friendly, and generally excited to be meeting new people and going to new places.
-They're not quick to take offence, but will deal out what they're dealt
-
-Demeanour, personality, character quirks.
-
-Goals / ideals, worldviews, fears / vices.
+They're not quick to take offence, but will deal out what they're dealt if jokes are made at their expense.
+They find it hard to sit still for elongated periods of time, and at times sound overly enthusiastic about the topic of conversation.
 
 ## Relations
 
-- Character: relationship
+- Caius the Younger: Paige loaned a horse from the racecourse stables when passing though Trawidok. The Baron-Sir gave her a copy of his [bounty letter](FIXME) to pass on to the governor of Halfyord, and dispatched a couple of guards with the caravan.
+- Rolf Timberfell: Was one of the guards sent along with the caravan after it left Trawidok. There wasn't much time for chatting along the way, but Paige does acknowledge the guards were very helpful during the ambush in the night. This was somewhat soured by their departure back to Trawidok the following day.
 
 ## Plot Relevant Knowledge
 
-- Information
+- Paige has a copy of the Baron-Sir's bounty letter, so knows surface-level information about the situation in Trawidok.
+  - They knows that horses have gone missing.
+  - They believe this is the reason why the Baron-Sir gave her caravan guards for the journey, after she loaned the horse. It's also why they think he was reluctant to do so in the first place.
+  - If asked whether they will need to pay for the horse, Paige will state that the Baron-Sir will likely forward the expense claim to Paige's company, rather than them personally. This is standard procedure, so Paige is not worried about possible repercussions.
 
 ## Statblock
 
-- Armour Class: X (reason, reason)
-- Hit Points: XX (YdZ)
-- Speed: 30ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
-
-- Saving Throws:
-- Proficiencies:
-- Senses:
-- Languages:
-- Resistances:
-
-### Actions in Combat
-
-### Spellcasting
-
-Reason for spellcasting.
-ABILITY is THEIR spellcasting ability, THEIR spell attack bonus is +BONUS and THEIR spell save DC is SAVE_DC.
-
-Cantrips:
-
-- Cantrip 1
-
-Level X (NUMBER / day):
-
-- Spell 1
+Paige uses the Commoner statblock.
