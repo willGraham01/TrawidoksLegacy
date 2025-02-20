@@ -16,6 +16,9 @@ Characters are listed in the order that you are most likely to encounter them in
 (Human) The late father of the current baron, who originally inherited the land on which the Trawidok racecourse is built from a distant relative.
 The construction and operation of the racecourse was their passion project in their later years.
 
+FIXME This character does not have a character entry, on account of them being dead.
+Their main contributions are to the backstory.
+
 ## Baron Sir Caius Equirrion the Younger, 2nd Baron Equirrion
 
 (Human) The current owner of the Trawidok racecourse, and attached boarding house.
@@ -25,6 +28,9 @@ He runs the racecourse as a business, hosting events for the social elite.
 
 (Human) The late elder of the village, and a stickler for the traditional way of life in Trawidok.
 Vehemently opposed the racecourse's presence in Trawidok because of the shift it was imposing on the village's way of life.
+
+FIXME This character does not have a character entry, on account of them being dead.
+Their main contributions are to the backstory.
 
 ## Zanka Dijkstra
 
