@@ -77,7 +77,7 @@ After recounting this information, Paige will stick around to answer any questio
 Shufharz can also help with some logistical information about getting to Trawidok; the journey usually takes around 2 days for a riding party of a small band of adventurers who are travelling light.
 Paige will also suggest that - if the party is planning to take up the bounty - they look out for the campsite where the caravan was attacked on the way, and will provide some landmarks for reference, so the party knows when to head off the path to find the clearing.
 It will likely be around noon by the time Paige has recounted the story, meaning that there is only half a day's travel time remaining before darkness sets in.
-Shufharz and Paige will both recommend the party heads out at first light tomorrow.
+Shufharz and Paige will both recommend the party heads out at first light tomorrow, andPaige will comment that the campsite should be safe so long as the party sets up torches and takes shifts keeping watch (which seemed to keep the animals at bay after the initial attack).
 
 The party might want to undertake some preparations prior to their journey - this is an opportunity to purchase gear from Halfyord, or potentially seek out some of the other caravan merchants.
 Other members of the caravan will largely recount the came events, though the wealthier ones will also be able to comment on how Baron-Sir Caius' race-course is rather popular among the nobility.
