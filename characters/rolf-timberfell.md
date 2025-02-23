@@ -38,7 +38,7 @@ To this end, his personal morals are usually aligned with those of his employers
 
 ## Plot Relevant Knowledge
 
-- Information
+- Information FIXME
 
 ## Statblock
 
