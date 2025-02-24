@@ -109,36 +109,130 @@ They might also choose to look around the area for further clues (or ask if Rolf
     - 18+: One set of these horse-shoe prints faces the wrong way, as if approaching the clearing. These prints stop before the clearing itself.
     - 20+: The reverse-direction prints form a U-turn at the clearing's edge, which is where the "additional" prints (see the 15+ information) come from. These prints also disappear a shorter distance into the woods than the other tracks.
     - 22+: Some of the tree branches that are broken are quite far up the trees themselves, likely at or above the upper end of what a horses' height would naturally be.
-- Helping with the lure
-- Helping wth the snare
+- Party members can also go across to help with the lure that Rolf's men are putting together. They can also ask about what animals they're expecting to lure, to which the men will respond with wolves (as per their experience at the ambush a few days ago).
+  - (Survival DC 10 / Nature DC 13) Despite claiming they are planning to attract wolves, there are nuts, berries and other plant-based foods present in the lure, alongside meats. A character who spots this can raise this with the members of Rolf's band, who will accept their mistake and say they just asked someone in Trawidok for some hunting bait. They will hand over more of these pre-made lures for a character to take apart and recombine into something more sensible.
+- Around the lure, Rolf's band have places some snare traps they plan to set during the night. The snares closest to the forest edge have already been set, but those between the camp and the lure are not yet.
+  - (Survival DC 13 / Perception DC 13) No attempt has been made to conceal the lures in undergrowth or under the dirt. A character can raise this with the nearby members of Rolf's band and they will invite the character to use their initiative. Allow the character to arrange the supply of snares as they see fit before the evening is out (this will come into play tomorrow morning).
+
+Once the party is done investigating, they can join Rolf's camp and rest for the evening.
+They also have the opportunity to ask Rolf more questions if they want, and try to befriend him or some of the members of his group.
+Before allowing the group to rest for the evening, be sure to:
+
+- Mention that the torches around the campsite are light shortly after dark. The lure is just barely visible in the dim light at the far end of the clearing, but any hidden snares are almost impossible to see.
+- Rolf will assign three shifts for a watch during the night, with himself taking the first shift. He will invite the party to partner up with one of his men for each shift during the night, but will not demand it if no-one in the party wants to do so.
+
+If any party members take a shift, have them roll a perception check (along with the member of Rolf's band they are with) to determine what catches their eye in the evening.
+If a later shift rolls in the same bracket as an earlier shift, provide the information of the previous bracket (working down the brackets if necessary).
+
+- (Perception DC 5) There is some faint howling sounds, but nothing that is close.
+  - 10+: Rustling sounds can be heard coming from the treeline, though you don't see anything emerge.
+  - 13+: You can catch a glance at some of the shapes in the forest, where the torchlight is just carrying to. It looks like a large animal, like an elk or deer, was headed toward the clearing before something scared it off.
+  - 16+: A flicker of light from one of the torches catches on something in the woods - what looks to be a pair of eyes and a muzzle. You see a dog-sized creature quickly turn about and scamper back into the woods.
+
+### The Morning
+
+In the morning the campsite will awaken to a foggy scene, hindering (but not necessarily limiting) visibility.
+Once most of the campsite is awake, a couple of Rolf's men will grab a torch each from the rear of the camp (the further points away from the lure and snares), and walk out of camp to inspect the snares.
+A party member can join them if they so wish.
+Other members of Rolf's band will start striking the camp and preparing breakfast, which includes putting the torches out, but not packing away the stands they sit on.
+
+Rolf will greet the party and begin explaining the band's plans for the day, if he was not asked about it last night.
+He and his band plan to follow any tracks deeper into the woods, to find any clues as to the missing horse's whereabouts or the animal den they presume is responsible for the attack a few days ago.
+Rolf will suggest the party continue on to Trawidok, since he doesn't have enough supplies to accommodate the party, and also because they're working a bounty and so won't be sharing the reward!
+Have this conversation be interrupted by the events that start combat below.
+
+If any party members went to check the snares and lure, they will find that it is untouched, and none of the snares have closed.
+Party members (but not Rolf's band) at the lures / snares can make the following check at this point:
+
+- (Perception DC 14) The unmistakable sound of leaves rustling and paw-prints approaching can be heard in the undergrowth. Give these characters an action to prepare themselves, before starting combat as below.
 
 ## Combat Encounter
 
-Short summary of the combat encounter.
+Out of the undergrowth at the end of the clearing, and through the fog, a pack of wolves bursts out, encircling the group that has gone to check the lures.
+Wolves that pass near a snare need to make the appropriate Perception check to avoid triggering the trap.
+The wolves form a loose perimeter around the group at the lure, approximately 30ft away from any one group member.
+The portion of the pack between the camp and the lures has half its members focused on the lure party and the other half keeping watch on the camp.
+
+Roll initiative for all present characters.
 
 - Wolves to the front, bears to the rear.
-- The party can use the torches to disuade the wild animals.
+- The party can use the torches to dissuade the wild animals.
 
 ### Encounter Information
 
-Trigger:
-Intended difficulty:
+Trigger: The morning comes
+Intended difficulty: Hard / Deadly
 
 Participants based on party size:
 
-| Party size | Enemy 1 | Enemy 2 | Other adjustments |
+| Party size | Wolves (at any 1 time) | Bears | Other adjustments |
 |:-:|:-:|:-:|-|
-| 3- |  |  |  |
-| 4  |  |  |  |
-| 5  |  |  |  |
-| 6+ |  |  |  |
+| 3- | 10 | 2 | Rolf's band consists of 4 men, including himself. |
+| 4  | 10 | 2 | Rolf's band consists of 4 men, including himself. |
+| 5  | 10 | 3 | Rolf's band consists of 5 men, including himself. |
+| 6+ | 10 | 3 | Rolf's band consists of 5 men, including himself. |
 
-Enemy Objectives:
+**Enemy Objectives:**
+
+- The wolves and bears have come seeking a meal, attracted by both the lure and the food kept in the campsite. They also won't turn their noses up at any easy targets.
+  - The wolves are primarily interested in the lure and any people who happen to be unfortunate enough to be nearby.
+  - The bears will wander into the campsite looking for food.
+- Rolf's men will attempt to re-group in the camp, using the torchlight to keep the animals at bay until they disperse. They will attempt to rescue their friends in trouble too.
+
+**Combat ends when:**
+
+The party and Rolf's band successfully secure the campsite, and no characters are stranded or in peril from the wolves.
+The campsite can be secured by re-forming the torch-line that was present during the night, or improvising this with hand-held torches to form a safe perimeter.
+
+When this happens, proceed to [aftermath of the attack](#aftermath-of-the-attack), below.
 
 ### Initial Locations
 
+The wolf pack starts in a loose circular formation around the group of characters inspecting the lure.
+The group at the lure consists of two of Rolf's men and potentially some party members.
+All remaining characters are placed in appropriate locations in the camp.
+
+The bears in the woods do not start on the map, and join after the first round of combat at their initiative count.
+
 ### Other Encounter Factors
+
+- Bear arrival: after one combat round, the bears enter the clearing from the treeline closest to where Rolf's men removed torches to go and look at the snares.
+- Fog: the fog is starting to fade, but still affects visibility at medium to long ranges.
+  - Ranged attacks have their short range halved for the purposes of this encounter.
+  - Ranged spell attacks are also at disadvantage if launched at a target further than half their usual range away.
+  - Spells that line of sight aimed at targets more than half their range away require the caster to make a Perception check with DC 13. On a fail, the spell targets a random creature within the caster's field of view (roll a suitable dice to determine the target, which includes the intended target). On a success, the spell works as normal.
+- Snares: characters and creatures must take care to avoid the snares laid out the night before. See the [item entry](FIXME) for details.
+- Fire and torches:
+  - The wolves are frightened of all creatures they can see carrying a lit torch (or other source of fire) within 10ft of them. They will not approach within 10ft of such a source of fire (that they can see), and must not be within 10ft of such a source by the end of their turn, if they can avoid it. They may still attack a creature if they start their turn in the radius, before retreating to a safe distance.
+  - The bears will not willingly approach within 5ft of a source of fire.
+  - Whenever a bear or wolf is attacked by a creature carrying a torch or other source of flame, or an effect or weapon that uses fire, it must make a Wisdom saving throw (DC 13) or immediately move 5ft away from the source of the attack. This movement can provoke opportunity attacks.
+  - Creatures wielding a source of fire can replace an of attack on their turn to wave and move the flame source in a manner that scares all wolves and bears within 10ft of the fire source. The affected creatures must make a Wisdom saving throw (DC 13) or immediately move 5ft away from the creature performing this action. If a creature has multiple attacks on its turn, it can continue to replace attacks with this effect.
+- The pack is tireless: wolves that drop to below half their hit points retreat to the treeline on their turn, and are removed from the encounter. The next turn, a number of wolves equal to those that fled in this manner enter the combat from the treeline within 30ft of another wolf. Wolves that are outright killed are also replaced in this manner.
 
 ### Loot
 
+- Pelts from any killed animals.
+
 ### Notes
+
+- The party and Rolf's band are not meant to kill all hostile creatures in this fight, hence the swarming wolves.
+- Give audible clues concerning the fact that fire can be used against the creatures. For example, have Rolf or another member in the camp grab a torch before moving out of the camp, and describe the wolves reacting accordingly. Alternatively, have one of Rolf's band members near the lures wave his torch in panic on his turn.
+- The wolves and bears are not allies, but are also not exactly friends. They may engage in stand-offs with each other if the situation arises. However, the bears will tend to investigate the campsite for food, whilst the wolves' concern is the lure and immediate group of people.
+
+## Aftermath of the Attack
+
+Once the campsite is secure, the wolves and bears will begin dispersing into the forest, taking any prizes they've been able to claim with them.
+The wolves will stick around to drag the lure and any unfortunate victims with them into the woods, whilst the bears will retreat towards the Halbrook or river Hal once driven out of the camp.
+
+The survivors of Rolf's band will be taking deep breaths, and once the animals disperse will begin to assess the damage.
+Rolf will make an offhand sarcastic comment about the "best laid plans", before engaging the party in conversation.
+His plans have changed since before the combat encounter, and he will suggest the party and his group travel back to Trawidok together.
+
+- If any members of his band suffered serious injuries (or were killed) during the fight, Rolf will use this as a reason for needing to head back to Trawidok.
+- Otherwise, the lure and a number of supplies in the camp will have been lost to the animals. Rolf will chastise the member of his band who left the food stores on ground level in the camp - which attracted the bears. He will then deem his earlier plans too dangerous without proper supplies, so suggest travelling back to Trawidok.
+
+The party can try to look around the area for clues, however there is nothing of particular note to be found that was not available the previous evening.
+If the party decides to pursue the animals into the woods themselves, drop (increasingly obvious) hints that this is not a good idea.
+If they persist and head into the forest, Rolf and his men will not follow them.
+They can follow the wolf tracks back to the wolves' den a few miles to the north-west of the clearing, where the pack awaits.
+There is no meaningful loot in the den, but the party can then report to the people of Trawidok that they dealt with the vicious wolves.
