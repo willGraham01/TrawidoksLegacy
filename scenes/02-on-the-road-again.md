@@ -201,7 +201,7 @@ The bears in the woods do not start on the map, and join after the first round o
   - Ranged attacks have their short range halved for the purposes of this encounter.
   - Ranged spell attacks are also at disadvantage if launched at a target further than half their usual range away.
   - Spells that line of sight aimed at targets more than half their range away require the caster to make a Perception check with DC 13. On a fail, the spell targets a random creature within the caster's field of view (roll a suitable dice to determine the target, which includes the intended target). On a success, the spell works as normal.
-- Snares: characters and creatures must take care to avoid the snares laid out the night before. See the [item entry](FIXME) for details.
+- Snares: characters and creatures must take care to avoid the snares laid out the night before. See the [item entry](../items/snare-trap.md) for details.
 - Fire and torches:
   - The wolves are frightened of all creatures they can see carrying a lit torch (or other source of fire) within 10ft of them. They will not approach within 10ft of such a source of fire (that they can see), and must not be within 10ft of such a source by the end of their turn, if they can avoid it. They may still attack a creature if they start their turn in the radius, before retreating to a safe distance.
   - The bears will not willingly approach within 5ft of a source of fire.
