@@ -59,7 +59,7 @@ The party should hopefully choose to make for the clearing and the campsite, tho
 
 ## The Campsite
 
-If the party attempts to camp elsewhere for the night, and in the morning begins to leave without visiting the campsite, have them hear the [combat encounter]() start between Rolf's band and the animals they have inadvertently attracted.
+If the party attempts to camp elsewhere for the night, and in the morning begins to leave without visiting the campsite, have them hear the [combat encounter](#combat-encounter) start between Rolf's band and the animals they have inadvertently attracted.
 If they still choose not to investigate, simply have Rolf and his band show up (battered and bruised, but alive) to the race-course after the party visits the Baron-Sir, where the party can overhear their report.
 
 Otherwise, if the party heads along the narrow path opposite the boulder towards the clearing to make camp, have the party make a perception check as they approach the clearing.
