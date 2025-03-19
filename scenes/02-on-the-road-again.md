@@ -233,6 +233,10 @@ His plans have changed since before the combat encounter, and he will suggest th
 
 The party can try to look around the area for clues, however there is nothing of particular note to be found that was not available the previous evening.
 If the party decides to pursue the animals into the woods themselves, drop (increasingly obvious) hints that this is not a good idea.
-If they persist and head into the forest, Rolf and his men will not follow them.
+If they persist and head into the forest, Rolf and his men will not follow them, though Rolf will tell them to report any success they find to the Baron-Sir when they eventually make it to Trawidok.
 They can follow the wolf tracks back to the wolves' den a few miles to the north-west of the clearing, where the pack awaits.
 There is no meaningful loot in the den, but the party can then report to the people of Trawidok that they dealt with the vicious wolves.
+
+## Next Scenes
+
+The party should proceed to [03 - Arrival at Trawidok](FIXME).
