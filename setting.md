@@ -56,11 +56,18 @@ All businesses that are based in the town and have a permanent premises are foun
 
 ### The Racecourse and Boarding House
 
+### The Horsewhistle
+
+Local inn with a few rooms to rent.
+FIXME scene 3
+
 ### "Good traditional guy"s farmstead
 
 ### The Road from Halfyord
 
 ### The Clearing in the woods
+
+FIXME scene 2
 
 ### The Halbrook Spring Cave
 
