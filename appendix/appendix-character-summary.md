@@ -24,6 +24,16 @@ Their main contributions are to the backstory.
 (Human) The current owner of the Trawidok racecourse, and attached boarding house.
 He runs the racecourse as a business, hosting events for the social elite.
 
+## Hierim Lempicki
+
+(Human) Trawidok's self-designated chronicler of history.
+The closest thing Trawidok has to an ealdorman.
+
+## Malon Daxidor
+
+(Half-elf) Innkeeper at the Horsewhistle, whose elven lineage comes from some of the first settlers that founded Trawidok.
+His role as innkeeper has mostly made him a keeper of the peace, and keen to stay neutral in light of the recent divisions in Trawidok's population.
+
 ## Ginter Dijkstra
 
 (Human) The late elder of the village, and a stickler for the traditional way of life in Trawidok.
@@ -32,7 +42,7 @@ Vehemently opposed the racecourse's presence in Trawidok because of the shift it
 FIXME This character does not have a character entry, on account of them being dead.
 Their main contributions are to the backstory.
 
-## Zanka Dijkstra
+## Zanke Dijkstra
 
 (Human F) Daughter and sole child of Ginter.
 Though not as traditionalist as her father, she has stayed in Trawidok to run the family's farm as her father would have wanted, rather than leaving for prospects in the wider world.
