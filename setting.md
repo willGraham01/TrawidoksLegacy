@@ -6,7 +6,7 @@ header_nav: True
 
 This section describes the village of Trawidok and the surrounding area, where the adventure was originally intended to take place.
 The area that the adventure takes place in is deliberately designed to be somewhat self-contained, to allow the adventure to be "insertable" into larger games or longer-running campaigns, and some aspects of the descriptions below are left deliberately vague.
-There is deliberately no mention of the state or wider governing body that Trawidok belongs to, and its only geographic features are presented in relation to the [town of Halfyord](FIXME link to piranhas).
+There is deliberately no mention of the state or wider governing body that Trawidok belongs to, and its only geographic features are presented in relation to the [town of Halfyord](https://willgraham01.github.io/PiranhasHalfyord).
 
 DMs should feel free to expand on the descriptions given here, or adapt them as necessary to suit their needs or personal campaigns and games.
 A more detailed discussion of the core mechanics that the story depends on, and how to change the appearance of the adventure without changing the underlying store is given in the [customising the adventure](./customising.md) section.

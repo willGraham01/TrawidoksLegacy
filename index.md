@@ -1,5 +1,5 @@
 ---
-title: Snappy adventure title FIXME
+title: Trawidoks Legacy
 description: Landing page for the adventure.
 header_nav: False
 ---

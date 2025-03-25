@@ -17,9 +17,9 @@ title: Add-Snappy-Title-At-Some-Point
 email: willgraham01@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A low-level, introductory adventure for Dungeons and Dragons.
-baseurl: "/FIXME" # the subpath of your site, e.g. /blog
+baseurl: "/TrawidoksLegacy" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-repository: willGraham01/FIXME
+repository: willGraham01/TrawidoksLegacy
 github:
   is_project_page: True
 
