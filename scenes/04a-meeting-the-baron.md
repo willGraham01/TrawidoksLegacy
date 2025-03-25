@@ -29,7 +29,7 @@ This scene takes place in: The Trawidok racecourse.
 The racecourse has a reception area that serves as the boarding house reception, and leads into the racecourse concourse.
 Both the lobby and the boarding house will be accommodating nobles who have some stake in the racecourse - either patrons of events or owners of horses stabled there - though they will not be busy spaces.
 Rolf and some members of his group will be in the lobby acting as a security detail.
-The Baron-Sir will be in his office, currently in a meeting with FIXME:important-noble who is demanding either action or compensation for his missing horse.
+The Baron-Sir will be in his office, currently in a meeting with [Lord Sinclair](FIXME) who is demanding either action or compensation for his missing horse.
 If the party arrives later in the day, rather than first thing in the morning, there will be more nobles accosting the Baron-Sir when the party gets an audience.
 
 ## Rocking up at the Racecourse
@@ -54,21 +54,21 @@ From there, he will head to the Baron-Sir's office and pause outside the doors.
 ## Meet the Baron
 
 Outside the double-doors to the Baron-Sir's office will be another couple of members of security, who will recognise Rolf.
-They will mention that the Baron-Sir is currently meeting FIXME:important-noble, but from what they can hear on the other side of the doors it "doesn't seem to be going well".
+They will mention that the Baron-Sir is currently meeting Lord Sinclair, but from what they can hear on the other side of the doors it "doesn't seem to be going well".
 Rolf will offer to introduce the party, and will mention the correct way to address the Baron-Sir to avoid drawing his ire.
 Before entering the office, and after the two guards mention that the Baron-Sir's current meeting isn't going well, the party (or characters therein) can make another Perception check (DC 16), a success affords the information from [the 16+ bullet point in the prior check](#rocking-up-at-the-racecourse) (and only the 16+ information).
 
 When the party is ready, Rolf will push open the double doors and enter the Baron-Sir's office.
-FIXME:important-noble will briefly pause in his complaints to the Baron-Sir to turn and see who has interrupted the meeting.
+Lord Sinclair will briefly pause in his complaints to the Baron-Sir to turn and see who has interrupted the meeting.
 If it is later than the morning, other nobles will also be present in the office, all talking over each other.
 The Baron-Sir will have to raise his voice and address Rolf as he enters, which will broker a silence in the room.
-During the following conversation, FIXME:important-noble (and other nobles if it is later than morning) will make comments on and frequent interjections into the conversation that occurs between the Baron-Sir and the party.
+During the following conversation, Lord Sinclair (and other nobles if it is later than morning) will make comments on and frequent interjections into the conversation that occurs between the Baron-Sir and the party.
 Baron-Sir Caius will attempt to have the other nobles clear the room, but they will insist on staying so that the Baron-Sir does not attempt to keep them out after he's finished talking to the party.
 
 The Baron-Sir will give the party a very formal overview of the situation - or rather, his take on the situation.
 He will provide the following facts;
 
-- At least 6 horses have gone missing in the past few weeks. FIXME:important-noble will interject to highlight that one of these horses was his prize thoroughbred, a horse that he purchased from FIXME:stablehand after they inherited the horse from their late parents. _This_ piece of information serves as a hook to bring to the party's attention that only Trawidok horses are going missing.
+- At least 6 horses have gone missing in the past few weeks. Lord Sinclair will interject to highlight that one of these horses was his prize thoroughbred, a horse that he purchased from [Teodor Kalka](FIXME) after they inherited the horse from their late parents. _This_ piece of information serves as a hook to bring to the party's attention that only Trawidok horses are going missing.
 - The Baron will mention that a number of bounty hunters have been through since the bounty was put up. Besides Rolf's band, the Baron-Sir has not seen them come back since. He does not know where they went, though Rolf will hypothesise that - if they wandered into the woods - they met a less fortunate fate than what happened to the party [in the clearing](../scenes/02-on-the-road-again.md#combat-encounter).
 - After raising a couple of points, one of the nobles present will angrily remark that the Baron-Sir appears to be lacking tangible leads. Caius will angrily respond that the nobles aren't forthcoming with their help, and are "about as much use as the peasants, and they aren't exactly enamoured with us".
   - (Persuasion DC 10) To get the Baron-Sir to elaborate on his comment. He will mention that one faction of the village is hostile to the presence of the racecourse, and label the villagers as ungrateful for his work bringing notability to the town.
@@ -88,7 +88,7 @@ Have such party members make one of the following checks, of their choice:
   - 15+: The ledger can be swiped without anyone in the room noticing. This allows the following investigation checks to be undertaken at any time, by another member of the party if so desired.
   - (Investigation DC 8) The ledger contains records of the horses that are stabled at the racecourse. The missing horses are also marked as such.
     - 10+: All the horses that are missing have, in their respective entries, that they are native to Trawidok.
-    - 12+: Some employee records in the ledger, including that for FIXME:stablehand, mention the fact that Caius purchased the employee's land and farm animals as part of the employment arrangement.
+    - 12+: Some employee records in the ledger, including that for Teodor, mention the fact that Caius purchased the employee's land and farm animals as part of the employment arrangement.
     - 14+: There is also an entry in the ledger from around 4.5 years ago that refers to [Ginter's horse](FIXME) as "never recovered", along with giving a description of the animal. Some notes in the entry mention that the horse was released prior to Ginter's sentencing and therefore the next of kin (Zanke) is not liable for compensation. _This serves as a potential lead for getting information from Zanke_.
 - (Persuasion DC 10) To ingratiate oneself with one of the nobles present in the office, in whispered conversation whilst the main conversation is taking place. Such a noble will be willing to talk about:
   - Their missing horse. They will provide a description of their horse, and mention that it is a native Trawidok breed. They purchased it from the Baron-Sir's stock, but don't know the details of how he acquires or breeds the horses themselves.

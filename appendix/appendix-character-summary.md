@@ -7,6 +7,8 @@ Characters are listed in the order that you are most likely to encounter them in
 
 (shufharz but she doesn't count)
 
+FIXME - reorder appropriately
+
 ## Paige Fleetfoot
 
 (Gnome) A courier travelling to Halfyord, who stopped over in Trawidok to change horses. Between Halfyord and Trawidok, they were attacked by a pack of wolves which caused one of the horses to bolt into the woods.
@@ -24,15 +26,26 @@ Their main contributions are to the backstory.
 (Human) The current owner of the Trawidok racecourse, and attached boarding house.
 He runs the racecourse as a business, hosting events for the social elite.
 
+## Teodor Kalka
+
+(Human) A stablehand working for the Baron-Sir. He sold his father's land and farm animals - including the horse that his father had bonded with via the rite of passage - to the Baron when entering his employ.
+
 ## Hierim Lempicki
 
+FIXME
 (Human) Trawidok's self-designated chronicler of history.
 The closest thing Trawidok has to an ealdorman.
 
 ## Malon Daxidor
 
+FIXME
 (Half-elf) Innkeeper at the Horsewhistle, whose elven lineage comes from some of the first settlers that founded Trawidok.
 His role as innkeeper has mostly made him a keeper of the peace, and keen to stay neutral in light of the recent divisions in Trawidok's population.
+
+## (Lord) Haythem Sinclair
+
+FIXME
+(Human) An important noble who will make an appearance [during the party's introduction to the Baron-Sir](../scenes/04a-meeting-the-baron.md).
 
 ## Ginter Dijkstra
 
