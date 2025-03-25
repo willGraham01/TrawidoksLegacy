@@ -118,21 +118,16 @@ The possible leads are:
 
 TSTK notes to transfer
 
-- The Baron-Sir himself, to discuss the bounty.
-  - Will see the Baron-Sir is under pressure to retrieve horses
-  - Baron-Sir will make offhand comment about Ginter's attempt a few years ago
-  - Opportunity to talk to stablehands, younger generation who did not do RoP
-  - Can note the fact that only Trawidok-native horses have been lost
-  - Can learn that if the racecourse folds, the land it occupies will likely go back to being farmland
 - Zanke, to learn about Ginter
   - More info on the traditionalist / modernist split in the village
   - Info on the RoP if not mentioned yet
   - Will explain the free-roam horse business
-  - Opportunity to note the unusal behaviour of Pakane
+  - Opportunity to note the unusual behaviour of Pakane
   - Zanke might mention Trohet and describe her father's horse, that was released before his trial
   - Can obtain the location of the RoP start
   - Can be told that an offering is typically bought to start the RoP
 - The racecourse grounds
+  - Opportunity to talk to stable-hands, younger generation who did not do RoP
   - Might catch Trohet "scouting" the racecourse
   - Later in the day, may catch Pakane and other horses "conversing" near their common enclosures
   - Will note that Trawidok-native horses keep to one group, and the other horses are more solitary
