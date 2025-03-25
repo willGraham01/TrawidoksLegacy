@@ -110,29 +110,22 @@ There is a fail-safe lead though, should the party need additional assistance du
 
 The possible leads are:
 
-- An audience with the Baron-Sir, which is the lead Rolf should have offered to the party.
-- Investigating the racecourse grounds and talking to the staff.
-- Visiting Hierim to learn more about Trawidok's history.
-- Seeking out Zanke to discuss either her father, the rite of passage, or the divisions within the village.
-- Watching the farmlands for suspicious activity, potentially sighting Trohet. This also doubles as the "if all else fails" lead.
-
-TSTK notes to transfer
-
-- Zanke, to learn about Ginter
-  - More info on the traditionalist / modernist split in the village
-  - Info on the RoP if not mentioned yet
-  - Will explain the free-roam horse business
-  - Opportunity to note the unusual behaviour of Pakane
-  - Zanke might mention Trohet and describe her father's horse, that was released before his trial
-  - Can obtain the location of the RoP start
-  - Can be told that an offering is typically bought to start the RoP
-- The racecourse grounds
-  - Opportunity to talk to stable-hands, younger generation who did not do RoP
-  - Might catch Trohet "scouting" the racecourse
-  - Later in the day, may catch Pakane and other horses "conversing" near their common enclosures
-  - Will note that Trawidok-native horses keep to one group, and the other horses are more solitary
-- History lead? Zanke can partially cover this, might want another character too.
+- [An audience with the Baron-Sir](./04a-meeting-the-baron.md), which is the lead Rolf should have offered to the party.
+- [Investigating the racecourse grounds](./04b-racecourse-grounds.md) and talking to the staff.
+- [Visiting Hierim](./04c-history-lessons.md) to learn more about Trawidok's history.
+- [Seeking out Zanke](./04d-meeting-zanke.md) to discuss either her father, the rite of passage, or the divisions within the village.
+- Watching the farmlands for suspicious activity, potentially sighting Trohet. This also doubles as the "if all else fails" lead. See FIXME:section-of-4b for more details.
 
 ## Next Scenes
 
-will be once the party reaches the RoP start.
+The party is now free to pursue any additional leads that they have obtained to this point.
+The adventure is setup in such a way that they _should_ be inclined to head to either the racecourse to meet Baron-Sir Caius, or possibly to Hierim's home ot learn about Trawidok's history.
+There is no "correct order" for the party to follow the leads in, and some information has redundancies in other sub-scenes, so complete exhaustion of ideas is not necessary:
+
+- [Meeting Baron-Sir Caius](./04a-meeting-the-baron.md), the lead that Rolf should have provided.
+- [Investigating the racecourse grounds](./04b-racecourse-grounds.md), a lead the party will get once they speak to the Baron-Sir.
+- [History lessons](./04c-history-lessons.md), Hierim's invitation to the party if he gave it at the bar.
+- [Meeting Zanke](./04d-meeting-zanke.md), a lead that the party can acquire from the other scenes, or possibly from certain actions at the inn during the evening.
+
+Once the party has gathered enough information, they should want to head into the forest to investigate further.
+This ends the scene and marks the beginning of ["into the woods"](./05-into-the-woods.md).

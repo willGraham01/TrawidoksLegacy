@@ -102,9 +102,11 @@ Have such party members make one of the following checks, of their choice:
 Once the meeting is over, Rolf will take his leave of the party, cracking a joke along the lines of "good luck on the job, but not too much - wouldn't want you beating me to the prize after all!".
 The party is now free to pursue any additional leads that they have obtained to this point, the geographically closest being the racecourse grounds.
 
-- FIXME link to other simultaneous leads
+- [The racecourse grounds](./04b-racecourse-grounds.md)
+- [History lessons](./04c-history-lessons.md)
+- [Meeting Zanke](./04d-meeting-zanke.md)
 
-Otherwise, the party may have enough information to head into the forest and begin investigating the disappearances, starting at the rite-of-passage site.
-In which case, they can proceed to FIXME:next-actual-scene.
+Otherwise, the party may have enough information to [head into the forest](./05-into-the-woods.md) and begin investigating the disappearances, starting at the rite-of-passage site.
+In which case, they can proceed to ["into the woods"](./05-into-the-woods.md).
 
 If the party has exhausted all their leads and still does not have a means of getting to the rite-of-passage start point, fire the fail-safe lead when the party leaves.
