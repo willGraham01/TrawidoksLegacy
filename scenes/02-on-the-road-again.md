@@ -239,4 +239,4 @@ There is no meaningful loot in the den, but the party can then report to the peo
 
 ## Next Scenes
 
-The party should proceed to [03 - Arrival at Trawidok](FIXME).
+The party should proceed to [03 - Arrival at Trawidok](./03-arrival-in-trawidok.md).
