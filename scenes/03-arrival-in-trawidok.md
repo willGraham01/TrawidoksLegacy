@@ -129,3 +129,4 @@ There is no "correct order" for the party to follow the leads in, and some infor
 
 Once the party has gathered enough information, they should want to head into the forest to investigate further.
 This ends the scene and marks the beginning of ["into the woods"](./05-into-the-woods.md).
+

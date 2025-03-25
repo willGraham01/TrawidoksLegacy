@@ -110,3 +110,4 @@ Otherwise, the party may have enough information to [head into the forest](./05-
 In which case, they can proceed to ["into the woods"](./05-into-the-woods.md).
 
 If the party has exhausted all their leads and still does not have a means of getting to the rite-of-passage start point, fire the fail-safe lead when the party leaves.
+
