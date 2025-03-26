@@ -17,6 +17,8 @@ Maps are available for download in the [mapped locations](#mapped-locations) sec
 
 ## Trawidok
 
+FIXME:use-the-map-in-floorplans!
+
 Trawidok itself is a an odd mixture of a farming village and derby ground.
 The core of the village is comprised of a three main streets that originate at a village square.
 These streets head south, north-east and north-west from the square and into the surrounding plains, before more rugged trails and footpaths break off from them as one gets further from the village.
