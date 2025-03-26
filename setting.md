@@ -56,6 +56,8 @@ All businesses that are based in the town and have a permanent premises are foun
 
 ### The Racecourse and Boarding House
 
+FIXME scenes 04a and 04b
+
 ### The Horsewhistle
 
 Local inn with a few rooms to rent.
