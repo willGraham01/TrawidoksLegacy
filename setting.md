@@ -17,25 +17,32 @@ Maps are available for download in the [mapped locations](#mapped-locations) sec
 
 ## Trawidok
 
-Trawidok itself is a an odd mixture of a farming village and derby ground.
+Trawidok itself is a an odd mixture of an old farming village and newer racecourse ground.
 The core of the village is comprised of a three main streets that originate at a village square.
-These streets head south, north-east and north-west from the square and into the surrounding plains, before more rugged trails and footpaths break off from them as one gets further from the village.
+These streets head south, north-east and north-west from the square and into the surrounding plains and farmland, before more rugged trails and footpaths break off from them as one gets further from the village.
+The southern road turns to the east after leaving the village, and hugs the treeline of the surrounding woods before joining up with the main road.
+
 Most of the buildings are humble, one-story dwellings, possibly with basements dug into the ground.
 There are - by nature of Trawidok's history - a large number of stables and horse-tying stations throughout the village.
-The village square has a well and small statue at its centre, and is one of the few areas of the town that is paved (though with cobblestones rather than solid-slab pavement).
+The village square has a well and small statue at its centre, and is one of the few areas of the town that is paved (though with cobblestones rather than solid-slab pavement or the equivalent of cement).
 There is a general store located just off the square, an inn halfway along the north-westerly street, and a blacksmith who mostly specialises in craft and repair of tools and horseshoes has a forge and store-front on the north-east end of the town.
 The three streets, and structures that join to them are known as the "old town" by the local residents.
 
-Beyond the core of the village, there are many farming houses and trapper posts in the plains and hills that surround Trawidok who would consider themselves residents of the village.
-The "natural boundary" of Trawidok is drawn by the river Hal to the east, and the woodland areas that encompass the plains and hills on the south, west, and north.
+Beyond the core of the village, there are many farming houses and trapper posts in the plains and hills that surround Trawidok.
+The people who live in these dwellings would consider themselves residents of the village.
+The "natural boundary" of Trawidok is drawn by the river Hal to the east, and the woodland areas that surround the plains and hills on the south, west, and northern sides of the village.
 The southern woodlands are the source of the Halbrook, a tributary river that runs west to east and joins the Hal a good distance before it reaches Halfyord.
 The woodlands quickly become thick upon entry, and it is considered unwise to wander off the main roads and trails without local guides or knowledge of the area.
 
-The plains and rolling hills that surround the old village lend themselves to an agriculture-based existence, and Trawidok is something of a bread-basket region for the surrounding area.
+The plains and rolling hills that surround the old village lend themselves to an agriculture-based existence, and Trawidok is something of a bread-basket for the surrounding area.
 Most of its surplus harvest is exported via Halfyord's connections, and the area has a reputation for being bountiful if slightly quaint and rugged.
 In recent years this has changed somewhat, with the building of the racecourse, boarding house, and derby stables on the south-west side of the town.
-In fact, these structures stick out like a sore thumb from the rest of the village, being much grander in design and appearance than the rest of the village.
+In fact, these structures stick out like a sore thumb, being much grander in design and appearance than the rest of the village.
 This has turned Trawidok into something of a holiday destination for the upper classes and nobility, due to the attraction that the races present, though this has caused [friction with the more traditional townsfolk](FIXME link to character motivations etc).
+
+A map of Trawidok, with the important locations for the story marked, is provided below.
+
+![A map of the important locations in Trawidok.](./floorplans/trawidok-map.png)
 
 ### Population demograph
 
@@ -56,20 +63,14 @@ All businesses that are based in the town and have a permanent premises are foun
 
 ### The Racecourse and Boarding House
 
+FIXME scenes 04a and 04b
+
 ### The Horsewhistle
 
 Local inn with a few rooms to rent.
 FIXME scene 3
 
-### "Good traditional guy"s farmstead
-
-### The Road from Halfyord
-
-### The Clearing in the woods
-
-FIXME scene 2
-
-### The Halbrook Spring Cave
+### Dijkstra farmstead
 
 ### Other Locations of Import
 
@@ -86,6 +87,14 @@ These include all the usual amenities like a:
 - Herbalist,
 
 etc.
+
+## The Road from Halfyord
+
+### The Clearing in the woods
+
+FIXME scene 2
+
+### The Halbrook Spring Cave
 
 ## Mapped Locations
 
