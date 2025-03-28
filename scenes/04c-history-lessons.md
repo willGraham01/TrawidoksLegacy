@@ -129,6 +129,13 @@ Hierim will give a summary of what he knows about the origins of Trawidok. FIXME
 
 ### Recent History and Social Troubles
 
+- Hierim has been in Trawidok for around 8 years, so has seen the tension between the traditionalist faction and the racecourse slowly amp up since arriving.
+  - Although he has been living in the village for this time, he still doesn't consider himself a resident in the sense that the (traditionalist) villagers do. Much like [Malon](FIXME), he is a neutral, but has sympathies with the traditionalists.
+  - `[*]` Hierim does believe that the Baron-Sir is inflaming relations, especially by taking on the younger village members as his staff.
+  - Hierim can inform the party that the tension between the villagers has fallen roughly along the generational divide - the traditionalists tend to me of the older generations (Ginter's or older) whilst the youngest generation are the ones wanting opportunities outside the village.
+    - `[*]` If anything, the tension and hostility is playing right into the Baron-Sir's hands, driving the younger generation into his employ.
+    - Zanke is one of the few younger village members who is more level-headed, and still has ties to both groups.
+
 ## Next Steps
 
 Once the party has finished conversing wth Hierim, they may want to pursue any additional leads that they have obtained to this point.
