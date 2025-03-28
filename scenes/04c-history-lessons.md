@@ -82,7 +82,7 @@ At this point he will also mention that the party are free to look at the books 
 He will start a conversation in one of the following ways:
 
 - If the party was predominantly interested in the social tensions currently gripping Trawidok back in the Horsewhistle, he will start there.
-- If the party was predominantly interested in the history or customs of Trawidok back in the Horswhistle, he will start with an overview of his work and a summary.
+- If the party was predominantly interested in the history or customs of Trawidok back in the Horsewhistle, he will start with an overview of his work and a summary.
 - If the party did not encounter Hierim in the Horsewhistle the night before, he will ask the party what the nature of their visit is. Based on their response, he will start the conversation with the appropriate topic above.
 
 For ease of organisation, Hierim's topics of conversation have been organised in subsections below.
@@ -92,9 +92,42 @@ This information that Hierim does not think is relevant is marked with `[*]` in 
 
 ### Ancient History
 
-### Recent History and Social Troubles
+Hierim will give a summary of what he knows about the origins of Trawidok. FIXME this could be moved to the lore section later to avoid duplication.
+
+- Trawidok has been a farming village for pretty much its entire existence.
+  - Though bountiful, the wilds surrounding the village used to be - and to an extent still are - viscous, which posed challenges to the original settlers.
+  - Hierim believes that the settlers eventually hardened to their surroundings, and adapted accordingly. Learning how to domesticate animals in the woods, hunt game, and fend off attacks from predatory animals.
+  - He will mention that there is a local legend of how the village was founded, which is [carved into the statue](FIXME) in the village square. He'll also mention that there is still something of a village custom owing its existence to this early way of life (the rite of passage).
+- Hierim can also give an overview of the lineage of the villagers; most of the more established farms (and the land upon which they stand) have been in possession of the same families tracing back as far as records go.
+  - Hierim will remark that he believes this has allowed tradition to take a deep root into the village's culture.
+  - However, Hierim will also mention that not everyone stays in the village, and likewise the village also sees some immigration from the surrounding areas - though most come to the village and become farmhands or traders (referencing the blacksmith, inn, and general store).
+  - `[*]` Hierim knows that the late Baron Caius (the elder) was a distant relative of a landowner, and this is how he came into possession of the land on which the racecourse was built.
+  - `[*]` Hierim is not one to suspect, but he knows that the earl has taken an interest in Baron-Sir Caius (the younger) since he took over from his father. The elder Baron Caius ran the racecourse more as a passion project, but the Baron-Sir seems to be running it more for status.
+    - (Persuasion DC 15 / A character has already seen that the earl is concerned with Trawidoks decline as per Hierim's correspondence) Hierim will mention that the Baron-Sir has always struck him as ambitious. He will also mention that the late Baron had the concerns of the villagers at heart, and though there was not no tension, relations with the village populace were cordial before the Baron-Sir took over.
+- Hierim also knows about the regiment that owes its foundation to the village, and can give a short summary.
+  - He will again mention that the statue in the main square depicts a soldier of the regiment, shortly after it was incorporated into the army.
+  - The armour decorations the regiment adopted - the ceremonial wings - was chosen due to the reputation for speed and mobility the regiment earned whilst in battle.
+  - Finally, Hierim will mention that the success of the original militia and their horsemanship likely came about as a result of the village's long-standing traditions surrounding handling horses.
 
 ### Customs and Folklore
+
+- Hierim knows about the existence of the rite of passage, but does not know the details of how it is conducted nor what it entails.
+  - `[*]` He does know that the last person to complete the rite was Zanke, and can suggest the group ask her about it.
+  - Hierim will note that the rite of passage usually involves a person coming back with either a trophy or a horse from the woods.
+    - He can elaborate on this and attribute the large number of horses present in Trawidok to the rite.
+    - `[*]` He also knows that the horses that come from the rite are often released back into the woods should the person who found them pass away before the creature. Though in recent years, he'll remark that some children have taken to keeping their parents' horses that were obtained from the rite.
+  - The rite of passage - alongside the legend of Trawidok's founding - is one of the reasons horses are treated with such respect by the locals.
+    - `[*]` If asked about Paige's visit and trouble hiring a horse, he will also attribute none of the villagers loaning to her being due to the rite of passage and their unwillingness to treat the horses as "property".
+- Hierim knows that Trawidok has its own collection of local legends and folk tales.
+  - He will mention that he got along very well with the old villager ealdorman (in reference to Ginter), who was kind enough to share the village's oral history.
+  - (Insight DC 13 / A character has read the correspondence with Ginter and knows about the almanac and records being passed to Hierim) Hierim will mention Ginter by name, and confirm that he is no longer around.
+    - `[*]` Hierim will explain what he knows about Ginter's death. He does not know Ginter's motivations, but suspects that they laid in the tension between the more "traditionalist" villagers and the Baron-Sir. Freeing the horses - in lieu of their place in Trawidok legend and culture - he suspects was also a major motivation.
+    - `[*]` Hierim also knows that Ginter's execution was largely pushed through by the Baron-Sir himself, pulling favours in the earl's court.
+      - The Baron-Sir also gained nothing with the execution, since Ginter's horse ([Trohet](FIXME)) that the Baron-Sir had been awarded as compensation had already disappeared from Trawidok.
+      - Ginter's farm - through a legal technicality that Hierim helped with - was already the legal property of Zanke, since the land belonged to Ginter's late _wife_, and had passed to Zanke upon her death. Hence the Baron-Sir could not be awarded it as alternative compensation.
+      - `[*]` Hierim will pause at this point, and suggest the party ask Zanke (carefully) about the circumstances.
+
+### Recent History and Social Troubles
 
 ## Next Steps
 
