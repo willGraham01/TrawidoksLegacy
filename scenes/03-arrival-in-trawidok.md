@@ -78,7 +78,7 @@ They will have enough free bunks for the party to stay, and will throw in a comp
 If the party reveals that they are here for the Baron-Sir's bounty, Hierim will give them a word of advice about what the locals think about the Baron-Sir, his racecourse, and his employees.
 Hierim will also warn the party that others in the village might not take kindly to the party upon hearing this information, so will advise them to keep the information to themselves.
 The party can request more information from Hierim, who will be able to give them leads on some of Trawidok's history (both ancient and more recent) and an overview of the divisions currently hanging over the village.
-If the party wants more information about the ancient history of Trawidok, Hierim will invite them to meet him tomorrow one he's "gotten over the beers" he's drunk this evening.
+If the party wants more information, Hierim will invite them to meet him tomorrow one he's "gotten over the beers" he's drunk this evening.
 This should hopefully provide the party with a second lead to follow up the following day.
 
 The party can attempt to get more information from the other patrons in the inn, who are further entrenched in the traditionalist faction than Hierim.
@@ -129,4 +129,3 @@ There is no "correct order" for the party to follow the leads in, and some infor
 
 Once the party has gathered enough information, they should want to head into the forest to investigate further.
 This ends the scene and marks the beginning of ["into the woods"](./05-into-the-woods.md).
-
