@@ -135,6 +135,13 @@ Hierim will give a summary of what he knows about the origins of Trawidok. FIXME
   - Hierim can inform the party that the tension between the villagers has fallen roughly along the generational divide - the traditionalists tend to me of the older generations (Ginter's or older) whilst the youngest generation are the ones wanting opportunities outside the village.
     - `[*]` If anything, the tension and hostility is playing right into the Baron-Sir's hands, driving the younger generation into his employ.
     - Zanke is one of the few younger village members who is more level-headed, and still has ties to both groups.
+- Hierim knows the broad social divisions and the parties on both sides:
+  - `[*]` Zanke was the last person to undergo the rite of passage, which in combination with her relative youth, is why she is in favour with both villager sides.
+    - Hierim does not know where Zanke stands (in terms of opinion) on the traditionalist / racecourse issue. He does know that Ginter was keen for her to undertake the rite of passage while he was alive, and was even preparing her somewhat.
+  - The rest of Zanke's generation are split between the racecourse and the traditionalists. The older generations in the village are staunchly traditionalist. The younger generation (teenagers and younger, who are not independent yet) don't have a consensus formed as of yet, but a number of them have expressed interest in travelling outside the village.
+    - `[*]` The older traditionalists are largely afraid of the decline of the village (including their ancestral homes and livelihoods), if the younger generation were to leave or abandon the agrarian economy that Trawidok survives on.
+    - In recent years, it has also become a point of principle in opposing the Baron-Sir, particularly since [Ginter's death](FIXME) and the Baron-Sir's disregard for treatment of horses.
+  - Hierim largely thinks the Baron-Sir is a "stereotypical" noble who views the lower classes as a means to an end. He doesn't seem to have any regards for the needs or concerns of the villagers themselves.
 
 ## Next Steps
 
