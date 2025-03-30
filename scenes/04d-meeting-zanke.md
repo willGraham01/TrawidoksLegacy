@@ -37,30 +37,15 @@ Description of the area the scene takes place in, when the party arrives.
 
 ## Event 2
 
-## Combat Encounter
+## Next Steps
 
-Short summary of the combat encounter.
+Once the party has finished talking to Zanke (and possibly looking around her farm), they may want to pursue any additional leads that they have obtained to this point.
 
-### Encounter Information
+- [Meeting the Baron-Sir](./04a-meeting-the-baron.md)
+- [The racecourse grounds](./04b-racecourse-grounds.md)
+- [History Lessons](./04d-meeting-zanke.md)
 
-Trigger:
-Intended difficulty:
+Otherwise, the party may have enough information to [head into the forest](./05-into-the-woods.md) and begin investigating the disappearances, starting at the rite-of-passage site.
+In which case, they can proceed to ["into the woods"](./05-into-the-woods.md).
 
-Participants based on party size:
-
-| Party size | Enemy 1 | Enemy 2 | Other adjustments |
-|:-:|:-:|:-:|-|
-| 3- |  |  |  |
-| 4  |  |  |  |
-| 5  |  |  |  |
-| 6+ |  |  |  |
-
-Enemy Objectives:
-
-### Initial Locations
-
-### Other Encounter Factors
-
-### Loot
-
-### Notes
+If the party has exhausted all their leads and still does not have a means of getting to the rite-of-passage start point, fire the [fail-safe lead](./04b-racecourse-grounds.md#failsafe-lead-trohet-sighted) when the party leaves.

@@ -158,4 +158,4 @@ The party can ask him for more information about the almanac and records if they
 Otherwise, the party may have enough information to [head into the forest](./05-into-the-woods.md) and begin investigating the disappearances, starting at the rite-of-passage site.
 In which case, they can proceed to ["into the woods"](./05-into-the-woods.md).
 
-If the party has exhausted all their leads and still does not have a means of getting to the rite-of-passage start point, fire the [fail-safe lead](./04b-racecourse-grounds.md#FIXME) when the party leaves.
+If the party has exhausted all their leads and still does not have a means of getting to the rite-of-passage start point, fire the [fail-safe lead](./04b-racecourse-grounds.md#failsafe-lead-trohet-sighted) when the party leaves.
