@@ -109,6 +109,52 @@ The party can look around the living room for conversation topics and other clue
 
 ### Conversing with Zanke
 
+This is likely to be the party's first encounter with Zanke, and so she isn't likely to know which topics of conversation they want to broach first (unlike Hierim).
+She will be forthcoming, though her demeanour towards the party will change based on how the party goes about questioning her on certain topics.
+In addition to any conversation topics that can be broached using by looking around the room, Zanke can provide the party with details about the following:
+
+- The racecourse troubles since the Baron-Sir took over from his father.
+  - This includes the more recent "land-grabs" by the Baron-Sir, and his employment of the people who previously owned said land.
+  - Zanke will also mention that a few of the stablehands included their father's horses in the deal - these are the "renamed" horses that have either escaped or are still in their paddocks in the stables.
+  - If the party is careful / respectful enough, Zanke will also explain the circumstances around her father's execution.
+- Zanke can be asked her opinion on the racecourse and the social dynamic / tension that has evolved in Trawidok.
+  - She sits in the middle of the two factions, and will remark that she feels like she's slowly falling between a rock and a hard place. She will also share her own views, that tread the line of "respect tradition, but do not fear change". She is not an advocate of the Baron-Sir of course, but does acknowledge that the racecourse's presence does bring some potential to Trawidok - in terms of recognition and opportunity. However under it's present leadership, it is nothing but a detriment at best and a threat to the long-term survival of the village at worst.
+  - The "traditionalist" faction generally respects her because she has de-facto taken up the role of her father as ealdorman, and is the only one of her generation to undertake the Rite of Passage. She is with them in the sense that the Baron-Sir needs to be dealt with, though not in the extreme ways her father undertook.
+  - The villagers of her generation, and those in the employ of the Baron-Sir, are still on amicable terms with Zanke in light of their upbringing together, and her understanding of the intentions behind their decisions. However, she is not under the same illusion as some of them are - that the Baron-Sir wasn't just exploiting his authority.
+
+The party's objective is to convince Zanke that their intentions are in the interest of the people of Trawidok; this can be either pro- or against the racecourse, with the former being harder than the latter.
+Zanke can point the party to the clearing where the small shrine indicating the start of the Rite of Passage is, and will even offer them one of the charms to hopefully bypass the "villagers only" aspect of the Rite of Passage.
+Whether she shares this information depends on whether the party has convinced her that they have good intentions, that align with her own.
+Zanke's preferences are (from most preferable to least):
+
+1. The removal of the Baron-Sir and transfer of ownership of the racecourse to the villagers. This outcome is possible if the party has learnt from either the nobles at the racecourse or Hierim that the Baron-Sir is under investigation by the earl, and is facing pressure. If he can't recover the horses, the earl will have enough sway in the nobility to act on the evidence of the Baron-Sir's coercion when purchasing Trawidok land.
+2. Removal of the Baron-Sir by any means. Though she will chastise the party if they take a violent route, since a suspicious or outright illegal death of the Baron-Sir will likely mean the racecourse stays in the hands of the nobility, albeit a more reasonable owner.
+3. Returning the horses to the Baron-Sir, but exposing his illegal dealings to Hierim. This will kerb the Baron-Sir's expansionist ideals, but leaves him with enough power in the nobility to retain ownership of the racecourse. The struggles in Trawidok will continue.
+4. Returning the horses to the Baron-Sir, and taking the reward. If the party fights the woodland spirit in [the later scene]() and defeats it, she will be borderline hostile to the party upon their return.
+
+What Zanke knows of the party's intentions will also affect whether the party gets information about the Rite of Passage and more "magical" aspects of Trawidok:
+
+- If the party reveals they are looking for the missing horses for the Baron-Sir, and are only interested in the reward, Zanke will not offer this information, feigning ignorance. She may attempt to appeal to the party's morals to get them to reconsider their course of action.
+  - (Deception / Persuasion DC 17) For (each character in) the party to convince Zanke that they have changed their minds. If a strict majority of the pass this check, she will offer up the above information.
+- If the party reveals they already know some of the village's struggles, and sympathise, Zanke will be more open. She wil also talk about her "ideal" outcome (removal of the Baron-Sir but preservation of the racecourse), though will mention she has no means to enact it herself.
+  - (Deception / Persuasion DC 12) For a character to convince Zanke that these are their true intentions (or to lie having having consistently lied throughout the conversation).
+
+If convinced (or deceived), Zanke will talk about the traditions of Trawidok, and the Rite of Passage itself.
+
+- She will reveal the Rite of Passage's role in Trawidok's culture.
+  - This should explain the unusual ways that Trawidok villagers seem to treat, keep, and work with horses.
+  - If the party doesn't know already, Zanke will also mention that the horses are usually released after their "partner's" death. The fact that the horses always seems to outlive their partners is an unspoken secret in Trawidok, but for many of the traditionalists is proof that there is some stock in the legend.
+    - Zanke will also mention that the Rite of Passage also serves the purpose of demonstrating to those who take it, that Trawidok's legend has some stock in it.
+    - Zanke will also reveal that this issue of "not releasing" horses obtained via the Rite of Passage has never happened before, and she does not know the consequences. She will hypothesise that the break-outs are not the work of the villagers, however.
+- If asked what happens during the Rite of Passage, Zanke will claim to know very little general information, even though she has gone through it herself.
+  - She will say that for most people, the Rite is more a demonstration of their willingness to respect (either as potential partners or threats) the creatures of the forest.
+  - Since no non-Trawidok natives have ever tried to undertake the Rite, Zanke will mention that the test may veer more towards understanding the history of the village and surrounding area too. If she hasn't already, she will also provide the party with a charm to offer at the shrine, since the party are unlikely to have made their own.
+  - Her own Rite of Passage was "rather simple" - not long after placing her offering at the shrine, Pakane entered the clearing and beckoned Zanke to follow. The pair spent a few days in the woods learning to work together to travel, hunt, and build shelter. On the final day of the trial, Pakane allowed Zanke to ride him back into the village, (presumably) ending the trial.
+
+Zanke will invite the party to undertake the Rite of Passage and keep their minds open to the idea that there may be more to the racecourse escapes than appears on the surface.
+She will also encourage them to keep the village's best interests at heart in whatever course of action they undertake.
+She will continue to answer any other questions they have, but once the party has enough information they are free to leave and head for either more clues (from their other leads) or proceed into the woods.
+
 ## Next Steps
 
 Once the party has finished talking to Zanke (and possibly looking around her farm), they may want to pursue any additional leads that they have obtained to this point.
