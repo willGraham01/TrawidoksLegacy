@@ -142,6 +142,9 @@ Hierim will give a summary of what he knows about the origins of Trawidok. FIXME
     - `[*]` The older traditionalists are largely afraid of the decline of the village (including their ancestral homes and livelihoods), if the younger generation were to leave or abandon the agrarian economy that Trawidok survives on.
     - In recent years, it has also become a point of principle in opposing the Baron-Sir, particularly since [Ginter's death](FIXME) and the Baron-Sir's disregard for treatment of horses.
   - Hierim largely thinks the Baron-Sir is a "stereotypical" noble who views the lower classes as a means to an end. He doesn't seem to have any regards for the needs or concerns of the villagers themselves.
+- `[*]` Hierim can speculate on the directions that Trawidok is heading in, and what might happen if the traditionalists get their way or the racecourse expands.
+  - On its current course, Hierim expects that Trawidok is heading towards becoming a vacation-home town for the nobility. The racecourse is expanding, which will displace the agrarian population, or morph them into a workforce more suited to hospitality. It is likely that those who end up living in Trawidok will be poorer, and with fewer freedoms, than those who currently live here.
+  - Hierim will also mention that there doesn't seem to be a desire within the nobility to take over the racecourse, should the Baron-Sir sell up or close down. This _should_ result in the calming of tensions, and a gradual return to Trawidok's "normal" way of life. If someone more cordial with (or understanding of) the villagers' was in charge, it might even be beneficial for the racecourse to stick around.
 
 ## Next Steps
 
@@ -158,4 +161,4 @@ The party can ask him for more information about the almanac and records if they
 Otherwise, the party may have enough information to [head into the forest](./05-into-the-woods.md) and begin investigating the disappearances, starting at the rite-of-passage site.
 In which case, they can proceed to ["into the woods"](./05-into-the-woods.md).
 
-If the party has exhausted all their leads and still does not have a means of getting to the rite-of-passage start point, fire the [fail-safe lead](./04b-racecourse-grounds.md#FIXME) when the party leaves.
+If the party has exhausted all their leads and still does not have a means of getting to the rite-of-passage start point, fire the [fail-safe lead](./04b-racecourse-grounds.md#failsafe-lead-trohet-sighted) when the party leaves.
