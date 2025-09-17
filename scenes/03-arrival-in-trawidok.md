@@ -114,7 +114,7 @@ The possible leads are:
 - [Investigating the racecourse grounds](./04b-racecourse-grounds.md) and talking to the staff.
 - [Visiting Hierim](./04c-history-lessons.md) to learn more about Trawidok's history.
 - [Seeking out Zanke](./04d-meeting-zanke.md) to discuss either her father, the rite of passage, or the divisions within the village.
-- Watching the farmlands for suspicious activity, potentially sighting Trohet. This also doubles as the "if all else fails" lead. See FIXME:section-of-4b for more details.
+- Watching the farmlands for suspicious activity, potentially sighting [Trohet](../characters/trohet.md). This also doubles as the "if all else fails" lead. See [the failsafe section](./04b-racecourse-grounds.md#failsafe-lead-trohet-sighted) for more details.
 
 ## Next Scenes
 

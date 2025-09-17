@@ -123,7 +123,7 @@ Hierim will give a summary of what he knows about the origins of Trawidok. FIXME
   - (Insight DC 13 / A character has read the correspondence with Ginter and knows about the almanac and records being passed to Hierim) Hierim will mention Ginter by name, and confirm that he is no longer around.
     - `[*]` Hierim will explain what he knows about Ginter's death. He does not know Ginter's motivations, but suspects that they laid in the tension between the more "traditionalist" villagers and the Baron-Sir. Freeing the horses - in lieu of their place in Trawidok legend and culture - he suspects was also a major motivation.
     - `[*]` Hierim also knows that Ginter's execution was largely pushed through by the Baron-Sir himself, pulling favours in the earl's court.
-      - The Baron-Sir also gained nothing with the execution, since Ginter's horse ([Trohet](FIXME)) that the Baron-Sir had been awarded as compensation had already disappeared from Trawidok.
+      - The Baron-Sir also gained nothing with the execution, since Ginter's horse ([Trohet](../characters/trohet.md)) that the Baron-Sir had been awarded as compensation had already disappeared from Trawidok.
       - Ginter's farm - through a legal technicality that Hierim helped with - was already the legal property of Zanke, since the land belonged to Ginter's late _wife_, and had passed to Zanke upon her death. Hence the Baron-Sir could not be awarded it as alternative compensation.
       - `[*]` Hierim will pause at this point, and suggest the party ask Zanke (carefully) about the circumstances.
 

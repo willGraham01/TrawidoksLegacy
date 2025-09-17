@@ -18,7 +18,7 @@ At the end of the scene, the party should hopefully:
 
 The party can also obtain the following information:
 
-- They might catch [Trohet](FIXME) scouting the racecourse, or find evidence of a horse walking on the outside of the perimeter fence.
+- They might catch [Trohet](../characters/trohet.md) scouting the racecourse, or find evidence of a horse walking on the outside of the perimeter fence.
 - Notice the difference in behaviour between the Trawidok-native horses (which tend to be in a group) and the non-native horses.
 - Discover that only Trawidok-native horses have gone missing.
 - Gain insights into why the village populace is divided, and why many resent the Baron-Sir.
@@ -52,7 +52,7 @@ The paddocks have shuttered windows, but those that face out into Trawidok are l
 When the party arrives, Teodor will be working in the stables along with another stable-hand.
 A further stablehand will be out in the racecourse grounds maintaining the track and reinforcing the damaged portion of the fence.
 All the (remaining) racecourse horses will either be in their paddocks (non-Trawidok-native horses) or in the holding pen (Trawidok-native horses).
-Trohet will be in the vicinity of the holding pen. FIXME:draw yourself a map, Will!
+[Trohet](../characters/trohet.md) will be in the vicinity of the holding pen. FIXME:draw yourself a map, Will!
 
 ## Conversing with the Stablehands
 
@@ -74,7 +74,7 @@ Entries that start with `[*]` indicates information that will only be given if T
 - The native-Trawidok horses are the ones out in the holding pen currently.
   - These horses appear to be more sociable, at least with each other.
     - If questioned about the [hoof-prints on the outside of the holding pen](#the-holding-pen), Teodor will mention that wild horses still roam the nearby woods, and given the sociable nature of the Trawidok horses (at least between themselves) it is not uncommon for horses to approach the racecourse perimeter when the stablehands are not in the immediate area.
-    - Teodor will offhandedly mention that he has caught a glimpse of one particular horse that has been coming to the perimeter fence quite often - he wll give a less-than-detailed description of [Trohet](FIXME) if asked to describe it.
+    - Teodor will offhandedly mention that he has caught a glimpse of one particular horse that has been coming to the perimeter fence quite often - he wll give a less-than-detailed description of [Trohet](../characters/trohet.md) if asked to describe it.
   - They also enjoy being outside more than their counterparts, getting restless and anxious if held inside for even short periods of time. Getting them in for the evening is a nightmare.
     - Teodor thinks this is the reason why only Trawidok-native horses have gone missing - they are much more "wild" than their non-native counterparts who happily reside in the stables.
   - `[*]` Most of the Trawidok horses were purchased from locals such as Teodor himself when their parents passed away.

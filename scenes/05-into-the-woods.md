@@ -2,7 +2,7 @@
 title: Into the Woods
 ---
 
-The party heads into the woods, either in pursuit of Trohet, or planning to undertake the Rite of Passage.
+The party heads into the woods, either in pursuit of [Trohet](../characters/trohet.md), or planning to undertake the Rite of Passage.
 
 This scene serves to do the following things:
 
@@ -40,11 +40,11 @@ Describe the clearing - being sure to mention the altar, though reserve some det
 ## Starting the Trial
 
 The party will need to start the trial by placing a charm they received from Zanke onto the small, raised plinth on the altar.
-If they do not have a charm, they can "cheat" by using some of the items that are already present at the shrine, or by placing their hands on the altar and making an appeal to the [woodland spirit](FIXME).
+If they do not have a charm, they can "cheat" by using some of the items that are already present at the shrine, or by placing their hands on the altar and making an appeal to the [Woodland Spirit](../characters/woodland-spirit.md).
 
-- (Nature DC 15) To successfully make an appeal to the woodland spirit to begin the trial without a charm or offering.
+- (Nature DC 15) To successfully make an appeal to the Woodland Spirit to begin the trial without a charm or offering.
 
-The party has a maximum 3 chances to start the trial - once with a charm, another with a suitable offering, and another through beseeching the woodland spirit.
+The party has a maximum 3 chances to start the trial - once with a charm, another with a suitable offering, and another through beseeching the Woodland Spirit.
 Failing on their first attempt(s) at the [clearing's trial](#clearing-trial) has no negative repercussions beyond possibly draining party resources.
 Failing the final attempt results in the party failing the adventure - in this case, they will have nothing to show for their actions and their investigation leads will go cold.
 See [possible endings](FIXME-baron is removed but another noble replaces him) for Trawidok's outlook and the party's reward.
