@@ -2,7 +2,7 @@
 title: Into the Woods
 ---
 
-The party heads into the woods, either in pursuit of Trohet, or planning to undertake the Rite of Passage.
+The party heads into the woods, either in pursuit of [Trohet](../characters/trohet.md), or planning to undertake the Rite of Passage.
 
 This scene serves to do the following things:
 

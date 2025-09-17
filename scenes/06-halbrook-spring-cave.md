@@ -23,15 +23,15 @@ The party can also obtain the following information:
 This scene takes place in: Halbrook Spring Cave
 
 If the party arrives on horseback [from the clearing](./05-into-the-woods.md), having started the trials, the spectral horses will ride them to the mouth of the cave, and then disperse into mist.
-Otherwise, the party will find the cave either by exploring or by tracking Trohet - in which case the only difference is the manner of the party's arrival.
+Otherwise, the party will find the cave either by exploring or by tracking [Trohet](../characters/trohet.md) - in which case the only difference is the manner of the party's arrival.
 
 The cave itself is a somewhat maze-like complex, the floor of which steadily increases in altitude the deeper into the cave the party goes.
 The stream that turns into the Halbrook can be seen running through the cave at various points - following the sound of the flow is a hint to the party of the area that they need to reach for the second trial [("leading a horse to water")](#lead-a-horse-to-water).
 
-A sample floorplan of the cave is available for use, but in general the complexity of the cave is up to the DM to decide, and can easily be adapted.
+A sample floor-plan of the cave is available for use, but in general the complexity of the cave is up to the DM to decide, and can easily be adapted.
 It should however have sufficient space for each of the following "areas" to be included:
 
-- The entrance cavern, where [Trohet](FIXME) will be waiting.
+- The entrance cavern, where [Trohet](../characters/trohet.md) will be waiting.
   A fox will be seen chasing a snake into some light shrub when the party arrives, and it will then quickly turn tail when it notices the party.
   The shrubs the snake retreats into contains the [Snake Totem](#trial-of-the-totems).
 - A cavern (relatively close to the entrance cavern) where a dead member of Rolf's band / bounty hunter can be found.
@@ -40,7 +40,7 @@ It should however have sufficient space for each of the following "areas" to be 
 - A burrow where the [Fox Totem](#trial-of-the-totems) can be found.
 - The "end" cavern, where a pool of still water lies and the [Totem puzzle](#trial-of-the-totems) starts.
 
-It is also recommended that you design the floorplan of the cave so that the party stands to come across at least one of the wolf or bear den whilst leading Trohet to the water source at the "end" of the cave.
+It is also recommended that you design the floor-plan of the cave so that the party stands to come across at least one of the wolf or bear den whilst leading Trohet to the water source at the "end" of the cave.
 These areas do not need to be in the direct path and may contain bypasses - however it is important that the party is at least aware of the presence of the other creatures for when they get to the end of the cave and are presented with the Totem puzzle.
 
 ## Entering the Cave

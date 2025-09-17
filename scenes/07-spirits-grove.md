@@ -36,7 +36,7 @@ When the party arrives from the Halbrook spring cave, they will find themselves 
 This area is effectively walled by thick hedgerows, that upon investigation seem to go on forever and ascend into the sky.
 Creatures cannot move through, over, or under, these hedgerows - the party must complete the puzzle to proceed.
 Just in front of the party will be chessboard formed into the ground, using grass and mud squares to in place of the usual white and black grid pattern.
-The hedges are tight to the edges of the chessboard, and on the far side are a number of large birds equal to the number of party members, as well as [Trophet](FIXME), provided he is not otherwise occupied / dead.
+The hedges are tight to the edges of the chessboard, and on the far side are a number of large birds equal to the number of party members, as well as [Trohet](../characters/trohet.md), provided he is not otherwise occupied / dead.
 For reference, the rank (line of 8 horizontal squares) of the board closest to the party will be referred to as the 1st rank, and the rank closest to Trohet the 8th rank.
 The column (line of 8 vertical squares) of the board to the left of the party as they face Trohet is column `A`, and the rightmost column is column `H`, with the intermediate columns adopting the labels `B` through `G` from left to right.
 This means that squares on the board can now be referred to by their algebraic notation, for example square `A4` refers to the square at the intersection of the 4h rank and leftmost (`A`) column.
@@ -135,9 +135,9 @@ Intended difficulty: Hard
 Enemies:
 
 - [The Woodland Spirit](FIXME)
-- [Trohet](FIXME)
+- [Trohet](../characters/trohet.md)
 - As many pegasid as have escaped from Trawidok thus far.
-  They use Trohet's stat block.
+  They use [Trohet's stat block](../characters/trohet.md#statblock).
 
 Enemy Objectives:
 

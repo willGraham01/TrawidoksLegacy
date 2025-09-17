@@ -34,10 +34,10 @@ As per the nature of the Rite, Trohet's personality is mostly mirrored by that o
 
 ## Relations
 
-- [Ginter Dijkstra](FIXME): Trohet's partner met during the Rite of Passage. Ginter released Trohet before his execution to prevent Trohet becoming a captive to the [Baron-Sir](./caius-equirrion-younger.md).
-- [Zanke Dijkstra](./zanke-dijkstra.md): Trohet knows Zanke from childhood, and was the horse that she learnt to ride on.
+- Ginter Dijkstra: Trohet's partner met during the Rite of Passage. Ginter released Trohet before his execution to prevent Trohet becoming a captive to the [Baron-Sir](./caius-equirrion-younger.md).
+- Zanke Dijkstra: Trohet knows Zanke from childhood, and was the horse that she learnt to ride on.
   He is largely friendly towards her, though has not actually interacted with her since his release.
-- [Woodland Spirit](FIXME): Trohet is fiercely loyal to the Woodland Spirit and its ideals.
+- Woodland Spirit: Trohet is fiercely loyal to the Woodland Spirit and its ideals.
 
 ## Plot Relevant Knowledge
 

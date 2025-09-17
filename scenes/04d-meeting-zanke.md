@@ -25,7 +25,7 @@ At the end of the scene, the party should hopefully:
 
 The party can also obtain the following information:
 
-- A description of [Trohet](FIXME), and knowledge that he is [Ginter](FIXME)'s old horse.
+- A description of [Trohet](../characters/trohet.md), and knowledge that he is [Ginter](FIXME)'s old horse.
 - More context about the role of horses in Trawidok's culture.
 - Some more information about the rite of passage.
 
@@ -102,7 +102,8 @@ The party can look around the living room for conversation topics and other clue
       - 16+/18+: A few of the larger sheets of paper appear to be maps. There are no timestamps on these maps, and the scales vary, so it is hard to map the character's knowledge of the layout of Trawidok in the present day to these maps. Cross referencing with the books indicates that the majority of the land in Trawidok has been held by the same families for much of written memory.
       - 18+/20+: One feature that is present on each map is a small trail leading from the southern side of the village into the woods. It is unnamed on all maps barring one, and appears to lead towards the Halbrook. The name given on the one map is "the hunter's trail", which is in reference to the hunting party of the Trawidok legend. The trail leads to the small shrine where the Rite of Passage starts.
   - 16+: The mantelpiece also has what looks to be some sketches that are framed. These are sketches that were done by Zanke's mother, before she died. They are all in black-and-white, using shading to display colour.
-    - One sketch has a picture of (a young-ish) looking Ginter, who appears to be smiling whilst on horseback. If asked about this sketch, Zanke will remark that her mother said it was of her father after he completed his Rite of Passage. The horse depicted is Trohet.
+    - One sketch has a picture of (a young-ish) looking Ginter, who appears to be smiling whilst on horseback. If asked about this sketch, Zanke will remark that her mother said it was of her father after he completed his Rite of Passage.
+      The horse depicted is [Trohet](../characters/trohet.md).
       - If the party has already caught a glimpse of Trohet from another lead, a character examining the sketch will notice the distinctive 3-sock marking that Trohet has is mirrored in the sketch.
     - Another sketch is of Zanke, who looks to be around 7-9 years old, grooming the same horse that appears in the first sketch. If asked, Zanke will confirm that it is her looking after Trohet. She'll remark that Ginter used to let her practice riding on Trohet, and how he'd fill her head with stories about his own Rite of Passage and the various legends and other historical events surrounding Trawidok.
     - The final sketch seems to feature Zanke again, around 10-12 years old. She appears to be riding the horse from the other two sketches with her hands in the air, and a huge smile on her face, whilst the horse seems to be moving at speed. The lines on this last sketch are not quite as sharp as the others - there are a few noticeable marks where an eraser has been used to get rid of errors or mistakes, but the style matches the others. If asked about this, Zanke will share that it was the last one her mother made, before dying the following winter from a long-term illness. By that stage, she was already quite frail (hence the errors and eraser marks) and found some joy in looking after a few of the village children, even though she was too unwell to help with labour-work.
@@ -130,7 +131,7 @@ Zanke's preferences are (from most preferable to least):
 1. The removal of the Baron-Sir and transfer of ownership of the racecourse to the villagers. This outcome is possible if the party has learnt from either the nobles at the racecourse or Hierim that the Baron-Sir is under investigation by the earl, and is facing pressure. If he can't recover the horses, the earl will have enough sway in the nobility to act on the evidence of the Baron-Sir's coercion when purchasing Trawidok land.
 2. Removal of the Baron-Sir by any means. Though she will chastise the party if they take a violent route, since a suspicious or outright illegal death of the Baron-Sir will likely mean the racecourse stays in the hands of the nobility, albeit a more reasonable owner.
 3. Returning the horses to the Baron-Sir, but exposing his illegal dealings to Hierim. This will kerb the Baron-Sir's expansionist ideals, but leaves him with enough power in the nobility to retain ownership of the racecourse. The struggles in Trawidok will continue.
-4. Returning the horses to the Baron-Sir, and taking the reward. If the party fights the woodland spirit in [the later scene]() and defeats it, she will be borderline hostile to the party upon their return.
+4. Returning the horses to the Baron-Sir, and taking the reward. If the party fights the woodland spirit in [the later scene](./07-spirits-grove.md#combat-encounter---fighting-the-spirit) and defeats it, she will be borderline hostile to the party upon their return.
 
 What Zanke knows of the party's intentions will also affect whether the party gets information about the Rite of Passage and more "magical" aspects of Trawidok:
 
