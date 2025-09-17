@@ -12,8 +12,8 @@ This scene serves to do the following things:
 At the end of the scene, the party should hopefully:
 
 - Have learned the truth behind the escaping horses.
-- Have met the [Woodland Spirit](FIXME).
-- Either agreed to resolve the disharmony in Trawidok for the Woodland Spirit, _or_ elected to slay the spirit and retrieve the missing horses.
+- Have met the [Woodland Spirit](../characters/woodland-spirit.md).
+- Either agreed to resolve the disharmony in Trawidok for the Woodland Spirit, _or_ elected to slay the Spirit and retrieve the missing horses.
 
 The party can also obtain the following information:
 

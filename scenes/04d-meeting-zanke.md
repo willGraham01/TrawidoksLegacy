@@ -131,7 +131,7 @@ Zanke's preferences are (from most preferable to least):
 1. The removal of the Baron-Sir and transfer of ownership of the racecourse to the villagers. This outcome is possible if the party has learnt from either the nobles at the racecourse or Hierim that the Baron-Sir is under investigation by the earl, and is facing pressure. If he can't recover the horses, the earl will have enough sway in the nobility to act on the evidence of the Baron-Sir's coercion when purchasing Trawidok land.
 2. Removal of the Baron-Sir by any means. Though she will chastise the party if they take a violent route, since a suspicious or outright illegal death of the Baron-Sir will likely mean the racecourse stays in the hands of the nobility, albeit a more reasonable owner.
 3. Returning the horses to the Baron-Sir, but exposing his illegal dealings to Hierim. This will kerb the Baron-Sir's expansionist ideals, but leaves him with enough power in the nobility to retain ownership of the racecourse. The struggles in Trawidok will continue.
-4. Returning the horses to the Baron-Sir, and taking the reward. If the party fights the woodland spirit in [the later scene](./07-spirits-grove.md#combat-encounter---fighting-the-spirit) and defeats it, she will be borderline hostile to the party upon their return.
+4. Returning the horses to the Baron-Sir, and taking the reward. If the party fights the [Woodland Spirit](../characters/woodland-spirit.md) in [the later scene](./07-spirits-grove.md#combat-encounter---fighting-the-spirit) and defeats it, she will be borderline hostile to the party upon their return.
 
 What Zanke knows of the party's intentions will also affect whether the party gets information about the Rite of Passage and more "magical" aspects of Trawidok:
 

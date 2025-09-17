@@ -3,7 +3,7 @@ title: Halbrook Spring Cave
 ---
 
 Having initiated the Trawidok rite of passage and passed the test in the clearing, the party arrives at Halbrook spring cave on the backs of the spectral horses.
-Here they face another trial that, when completed, will lead them to the woodland spirit's hidden grove.
+Here they face another trial that, when completed, will lead them to the [Woodland Spirit](../characters/woodland-spirit.md)'s hidden grove.
 
 This scene serves to do the following things:
 
@@ -16,7 +16,7 @@ At the end of the scene, the party should hopefully:
 
 The party can also obtain the following information:
 
-- There is a dead member of one of the Baron's guards / Rolf's band in the cave, whose journal may give the clue that Rolf's band are also on the tail of the woodland spirit.
+- There is a dead member of one of the Baron's guards / Rolf's band in the cave, whose journal may give the clue that Rolf's band are also on the tail of the Woodland Spirit.
 
 ## Setting
 

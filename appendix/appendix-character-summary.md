@@ -68,7 +68,7 @@ Zanka's horse, whom she bonded with during her coming of age rite.
 
 might also be a good one to have, since it could serve as a clue / trail giver. Or as a hitn that the party is on the right track if they find them.
 
-## Aquila (woodland spirit, pegasus)
+## Wind Between The Trees (Woodland Spirit, fey unicorn)
 
 ## Bounty Hunter Party (leader gets a name)
 
