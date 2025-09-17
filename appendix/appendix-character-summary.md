@@ -73,3 +73,12 @@ might also be a good one to have, since it could serve as a clue / trail giver. 
 ## Bounty Hunter Party (leader gets a name)
 
 Rolf Timberfell (leader's name)
+
+## Missing Horse Names
+
+Wiatr (wind)
+Ozywic (ginger)
+Wiosna (spring)
+Przeplyw (flow)
+Lilia (lilypad)
+Krok (stride)
