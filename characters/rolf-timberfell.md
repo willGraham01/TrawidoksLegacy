@@ -42,31 +42,19 @@ To this end, his personal morals are usually aligned with those of his employers
 
 ## Statblock
 
-- Armour Class: X (reason, reason)
-- Hit Points: XX (YdZ)
+- Armour Class: 13 (leather armour)
+- Hit Points: 18 (3d8+3)
 - Speed: 30ft.
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
+| 13 (+1) | 14 (+2) | 13 (+1) | 10 (+0) | 12 (+1) | 12 (+1) |
 
-- Saving Throws:
-- Proficiencies:
-- Senses:
-- Languages:
-- Resistances:
+- Saving Throws: Strength +3, Dexterity +4
+- Languages: Common, plus any other suitable languages.
 
 ### Actions in Combat
 
-### Spellcasting
+***Shortsword***: *Melee weapon attack*: +4 to hit, reach 5ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
 
-Reason for spellcasting.
-ABILITY is THEIR spellcasting ability, THEIR spell attack bonus is +BONUS and THEIR spell save DC is SAVE_DC.
-
-Cantrips:
-
-- Cantrip 1
-
-Level X (NUMBER / day):
-
-- Spell 1
+***Heavy Crossbow***: *Ranged weapon attack: +4 to hit, reach 60ft., one target. Hit: 7 (1d10 + 2) piercing damage.
