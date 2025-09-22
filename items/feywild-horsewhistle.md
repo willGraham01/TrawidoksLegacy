@@ -11,7 +11,9 @@ Once the balance of Trawidok is restored, it gains the [Horsewhistler](#horsewhi
 ## Nature's Ally
 
 If the balance of Trawidok has not been restored, any pegasid or Trawidok-native horses recognise the wearer as an ally if they do nothing nefarious to exacerbate the imbalance.
-The wearer can use a bonus action on each of their turns to issue a command to one such creature that can see and hear them, directing the creature on how to act on its next turn in combat.
+The wearer of the ring is also aware of the location and emotional state of any such creatures within 120ft that regard them in this way.
+
+The wearer can use a bonus action on each of their turns to issue a telepathic command to one such creature they are aware of, directing the creature on how to act on its next turn in combat.
 The target creature will only act in ways that it deems will work to restore the balance of Trawidok.
 
 ## Horsewhistler
