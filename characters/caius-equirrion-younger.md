@@ -53,17 +53,27 @@ Naturally, Caius' greatest fear is irrelevance, or obscurity.
 ## Statblock
 
 - Armour Class: 15 (ceremonial breastplate)
-- Hit Points: 9 (2d8)
+- Hit Points: 35 (5d8+10)
 - Speed: 30ft.
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 12 (+1) | 12 (+1) | 11 (+0) | 12 (+1) | 14 (+2) | 16 (+3) |
+| 12 (+1) |  8 (-1) | 15 (+2) | 15 (+2) | 14 (+2) | 16 (+3) |
 
-- Proficiencies: Deception (+5), Insight (+4), Persuasion (+5)
+- Proficiencies: Deception (+6), Insight (+5), Persuasion (+6)
 - Senses: Passive Perception 12
 - Languages: Common
 
-### Actions in Combat
+### Actions
 
 ***Cane.*** *Melee weapon attack*: +3 to hit, reach 5ft., one target. Hit: 5 (1d8 + 1) bludgeoning damage.
+
+### Bonus Actions
+
+***Don't Just Stand There!***: (3/day) Caius bellows an order at a subordinate, which they are expected to follow.
+Caius chooses a creature within 60ft. that can hear and understand him.
+If the creature is willing, Caius can make the creature do one of the following things:
+
+- Immediately move up to its speed in distance.
+- Make a contested Strength (Athletics) check against a hostile target within melee range.
+  On a hit, the target receives the prone condition and is pushed 10ft. away in a direction of the creature's choosing.
